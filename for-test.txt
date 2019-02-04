@@ -1,7 +1,6 @@
-<<<<<<< HEAD
 hello from brach rrazrabotka
 
 =======
 
 test 2 
->>>>>>> test
+
